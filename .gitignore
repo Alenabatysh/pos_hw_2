@@ -6,3 +6,6 @@ obj/
 
 *.json
 *.csv
+
+[Bb]in/
+[Oo]bj/
